@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on codding projects
 - 📫 Reach me @ - [email](samuelsholib12@gmail.com) or - [linkedin](https://www.linkedin.com/in/samuel-sholib-2611271b1/)
 
-- Also checkout some of my projects here - [weather-dashboard](https://samuelsholib.github.io/weather-dashboard/), - [tech-blog](https://samuelsholib.github.io/tech-blog/), and 
+- Here I have attached few from the projects I worked on  [weather-dashboard](https://samuelsholib.github.io/weather-dashboard/),  [tech-blog](https://samuelsholib.github.io/tech-blog/), and [password-generator](https://samuelsholib.github.io/strong-key-to-go/)
 
 <!---
 samuelsholib/samuelsholib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
