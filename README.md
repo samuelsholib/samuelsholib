@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on codding projects
 - 📫 Reach me @ 
- - [email](`samuelsholib12@gmail.com`) 
+ - email:`samuelsholib12@gmail.com` 
 
 
  - [linkedin](https://www.linkedin.com/in/samuel-sholib-2611271b1/)
 
-- 📫 Below, I have attached links to some of my projects  
+-  ### Live deployed links to some of my projects  
 - [weather-dashboard](https://samuelsholib.github.io/weather-dashboard/),  
 - [tech-blog](https://samuelsholib.github.io/tech-blog/) 
 - [password-generator](https://samuelsholib.github.io/strong-key-to-go/)
