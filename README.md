@@ -10,8 +10,9 @@
 
 - 📫 Below, I have attached links to some of my projects  
 - [weather-dashboard](https://samuelsholib.github.io/weather-dashboard/),  
-- [tech-blog](https://samuelsholib.github.io/tech-blog/), and 
+- [tech-blog](https://samuelsholib.github.io/tech-blog/) 
 - [password-generator](https://samuelsholib.github.io/strong-key-to-go/)
+- [work-day-scheduler](https://samuelsholib.github.io/work-day-scheduler/)
 
 <!---
 samuelsholib/samuelsholib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
