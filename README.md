@@ -8,11 +8,25 @@
 
  - [linkedin](https://www.linkedin.com/in/samuel-sholib-2611271b1/)
 
--  ### Live deployed links to some of my projects  
-- [weather-dashboard](https://samuelsholib.github.io/weather-dashboard/),  
-- [tech-blog](https://samuelsholib.github.io/tech-blog/) 
-- [password-generator](https://samuelsholib.github.io/strong-key-to-go/)
-- [work-day-scheduler](https://samuelsholib.github.io/work-day-scheduler/)
+-  ## Live deployed links to some of my projects 
+-   ## Weather Dashboard
+- [Click here](https://samuelsholib.github.io/weather-dashboard/) to see the live deployed App.
+``` Demo```
+  ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/Togo-weather-dashboard.png)
+- ## Tech Blog  
+- [Click here](https://samuelsholib.github.io/tech-blog/) to see live deployed App.
+- ```Here, I have the demo for you```
+- ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/tech-blog.png)
+-  
+- ## Password Generator
+- [Click here](https://samuelsholib.github.io/strong-key-to-go/) to got to the live deployed app
+- ```I am Demoing it here```
+ ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/password-generator%20.png)
+ 
+- ## Work Day Scheduler
+- [Click here](https://samuelsholib.github.io/work-day-scheduler/) to go to the live deployed app
+- ``` I am demoing it Here```
+![yes](https://github.com/samuelsholib/image-exporter/blob/main/Images/My%20daily%20schedule.png)
 
 <!---
 samuelsholib/samuelsholib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
