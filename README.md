@@ -11,7 +11,7 @@
 -  ## Live deployed links to some of my projects 
 -   ## Weather Dashboard
 - [Click here](https://samuelsholib.github.io/weather-dashboard/) to see the live deployed App.
-``` I am demoing it here```
+- ``` I am demoing it here```
   ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/Togo-weather-dashboard.png)
 - ## Tech Blog  
 - [Click here](https://samuelsholib.github.io/tech-blog/) to see live deployed App.
