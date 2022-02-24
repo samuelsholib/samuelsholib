@@ -11,21 +11,21 @@
 -  ## Live deployed links to some of my projects 
 -   ## Weather Dashboard
 - [Click here](https://samuelsholib.github.io/weather-dashboard/) to see the live deployed App.
-- ``` I am demoing it here```
+- ``` The picture below demonstrates the applications functionality```
   ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/Togo-weather-dashboard.png)
 - ## Tech Blog  
 - [Click here](https://samuelsholib.github.io/tech-blog/) to see live deployed App.
-- ```I am demoing it here```
+- ```The picture below demonstrates the applications functionality```
 - ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/tech-blog.png)
 -  
 - ## Password Generator
 - [Click here](https://samuelsholib.github.io/strong-key-to-go/) to got to the live deployed app
-- ```I am Demoing it here```
+- ```The picture below demonstrates the applications functionality```
  ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/password-generator%20.png)
  
 - ## Work Day Scheduler
 - [Click here](https://samuelsholib.github.io/work-day-scheduler/) to go to the live deployed app
-- ``` I am demoing it Here```
+- ``` The picture below demonstrates the applications functionality```
 ![yes](https://github.com/samuelsholib/image-exporter/blob/main/Images/My%20daily%20schedule.png)
 
 <!---
