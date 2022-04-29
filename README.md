@@ -13,11 +13,7 @@
 - [Click here](https://samuelsholib.github.io/weather-dashboard/) to see the live deployed App.
 - ``` The picture below demonstrates the applications functionality```
   ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/Togo-weather-dashboard.png)
-- ## Tech Blog  
-- [Click here](https://samuelsholib.github.io/tech-blog/) to see live deployed App.
-- ```The picture below demonstrates the applications functionality```
-- ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/tech-blog.png)
--  
+
 - ## Password Generator
 - [Click here](https://samuelsholib.github.io/strong-key-to-go/) to got to the live deployed app
 - ```The picture below demonstrates the applications functionality```
