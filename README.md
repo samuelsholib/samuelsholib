@@ -15,7 +15,7 @@
   ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/Togo-weather-dashboard.png)
 
 - ## Password Generator
-- [Click here](https://samuelsholib.github.io/strong-key-to-go/) to got to the live deployed app
+- [Click here](https://samuelsholib.github.io/strong-key-to-go/) to see the live deployed app
 - ```The picture below demonstrates the applications functionality```
  ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/password-generator%20.png)
  
