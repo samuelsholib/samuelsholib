@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelsholib
-- 👀 I’m interested to become a web developer
-- 🌱 I’m currently learning to code
+- 👀 I’m interested to add Python in to my tech-stacks list
+- 🌱 Currently I'm Full Stack developer @Revature
 - 💞️ I’m looking to collaborate on codding projects
 - 📫 Reach me @ 
  - [linkedin](https://www.linkedin.com/in/samuel-sholib-2611271b1/)
