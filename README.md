@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on codding projects
 - 📫 Reach me @ 
- - email:`samuelsholib12@gmail.com` 
-
-
  - [linkedin](https://www.linkedin.com/in/samuel-sholib-2611271b1/)
 
 -  ## Live deployed links to some of my projects 
