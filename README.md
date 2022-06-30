@@ -18,11 +18,6 @@
 - [Click here](https://samuelsholib.github.io/strong-key-to-go/) to see the live deployed app
 - ```The picture below demonstrates the applications functionality```
  ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/password-generator%20.png)
- 
-- ## Work Day Scheduler
-- [Click here](https://samuelsholib.github.io/work-day-scheduler/) to go to the live deployed app
-- ``` The picture below demonstrates the applications functionality```
-![yes](https://github.com/samuelsholib/image-exporter/blob/main/Images/My%20daily%20schedule.png)
 
 <!---
 samuelsholib/samuelsholib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
