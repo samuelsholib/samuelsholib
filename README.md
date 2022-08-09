@@ -5,11 +5,6 @@
 - 📫 Reach me @ 
  - [linkedin](https://www.linkedin.com/in/samuel-sholib-2611271b1/)
 
--  ## Live deployed links to some of my projects 
--   ## Weather Dashboard
-- [Click here](https://samuelsholib.github.io/weather-dashboard/) to see the live deployed App.
-- ``` The picture below demonstrates the applications functionality```
-  ![](https://github.com/samuelsholib/image-exporter/blob/main/Images/Togo-weather-dashboard.png)
 
 - ## Password Generator
 - [Click here](https://samuelsholib.github.io/strong-key-to-go/) to see the live deployed app
